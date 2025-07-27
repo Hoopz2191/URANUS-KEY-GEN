@@ -1,4 +1,3 @@
-# URANUS-KEY-GEN
 
 <!DOCTYPE html>
 <html lang="en">
